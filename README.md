@@ -1,2 +1,2 @@
 # Snake
-BAC1 2019-20 programming project in python3
+BAC1 programming project in python3
